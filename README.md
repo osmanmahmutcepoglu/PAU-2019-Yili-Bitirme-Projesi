@@ -1,3 +1,11 @@
+Algoritma ve Görsel detaylar aşağıda isimleri listelenen dosyalarda yer almaktadır.
+
+"16219602-Osman-Mahmutcepoglu-Spor-Bilimleri-Fakültesi-Özel-Yetenek-İle-Öğrenci-Alımı-Programı.docx"
+
+"Kullanım Klavuzu.docx"
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Bu çalışmada Pamukkale Üniversitesi Spor Bilimleri Fakültesinde özel yetenek ile öğrenci alımı programında 1 hafta gibi uzun bir süre alan öğrenci alımının minimum süreye indirgenmesi ve beşeri oluşabilecek hataların önüne geçilmesi amaçlandı. 
 
 Online bir sunucu olmadan tamamen ücretsiz olması amaçlandı.
@@ -25,9 +33,3 @@ Yerleştirme işleminde;
 6. Aşamaya dönüş yapılır. Yerleştirme işlemi sonlanmışsa adaylar ilgili bölümlerin Asil listesi ve Yedek Listesine Excel dosyası olarak ayrıştırılır.
 
 Bu program C# programlama dili ile geliştirilmiştir. Verilerin depolanmasında Excel kullanılmıştır.
-
-Algoritma ve Görsel detaylar aşağıda isimleri listelenen dosyalarda yer almaktadır.
-
-"16219602-Osman-Mahmutcepoglu-Spor-Bilimleri-Fakültesi-Özel-Yetenek-İle-Öğrenci-Alımı-Programı.docx"
-
-"Kullanım Klavuzu.docx"
